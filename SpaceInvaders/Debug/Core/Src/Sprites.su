@@ -1,0 +1,3 @@
+Sprites.c:71:10:Sprite2Mem	48	static
+Sprites.c:106:6:LDRSprites	24	static
+Sprites.c:115:10:FindSprite	24	static
